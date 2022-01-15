@@ -1,6 +1,6 @@
 # TSF-TASK1-DATA-SCIENCE-AND-BUSINESS-ANALYSTICS
 
-Prediction using Supervised ML
+Prediction using Supervised ML(USING PYTHON)
 
 Predict the percentage of an student based on the no. of study hours.
 
